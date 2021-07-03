@@ -13,6 +13,9 @@
     <Filter Include="src\sampapi\0.3.7-R3-1">
       <UniqueIdentifier>{25e2755e-5259-40b8-8399-522f5e3ad3b2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="src\sampapi\0.3.7-R4">
+      <UniqueIdentifier>{82cd7fe4-5dbb-4de9-a5c5-c603027d3375}</UniqueIdentifier>
+    </Filter>
     <Filter Include="src\sampapi\common">
       <UniqueIdentifier>{126122f0-2e3f-4246-945d-a32bae926801}</UniqueIdentifier>
     </Filter>
@@ -27,6 +30,9 @@
     </Filter>
     <Filter Include="include\sampapi\0.3.7-R3-1">
       <UniqueIdentifier>{3c183618-d2ea-47f6-a16b-99ed076bf9c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include\sampapi\0.3.7-R4">
+      <UniqueIdentifier>{c5304587-f650-405f-958f-504c7336f6a3}</UniqueIdentifier>
     </Filter>
     <Filter Include="include\sampapi\common">
       <UniqueIdentifier>{f9669eee-d059-4f16-ba20-d85bb3c77acc}</UniqueIdentifier>
@@ -342,6 +348,162 @@
     <ClCompile Include="src\sampapi\0.3.7-R3-1\Settings.cpp">
       <Filter>src\sampapi\0.3.7-R3-1</Filter>
     </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\AimStuff.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CActor.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CActorPool.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CAudio.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CAudioStream.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CCamera.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CChat.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CChatBubble.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CConfig.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CDeathWindow.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CDialog.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CEntity.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CFont.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CFonts.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CGame.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CGangZonePool.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CHelpDialog.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CHttpClient.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CInput.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CLabel.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CLabelPool.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CLicensePlate.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CLocalPlayer.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CMenu.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CMenuPool.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CNetGame.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CNetStats.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CObject.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CObjectMaterialText.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CObjectPool.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CObjectSelection.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\Commands.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CPed.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CPickupPool.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CPlayerInfo.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CPlayerPool.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CPlayerTags.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CRemotePlayer.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CScoreboard.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CSpawnScreen.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CSrvNetStats.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CTextDraw.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CTextDrawPool.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CTextDrawSelection.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CVehicle.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\CVehiclePool.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\DebugScript.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\Exception.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\GUI.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\KeyStuff.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\Scripting.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sampapi\0.3.7-R4\Settings.cpp">
+      <Filter>src\sampapi\0.3.7-R4</Filter>
+    </ClCompile>
     <ClCompile Include="src\sampapi\CRect.cpp">
       <Filter>src\sampapi\common</Filter>
     </ClCompile>
@@ -364,6 +526,174 @@
     </ClInclude>
     <ClInclude Include="include\sampapi\sampapi.h">
       <Filter>include\sampapi\common</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\AimStuff.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\Animation.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CActor.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CActorPool.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CAudio.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CAudioStream.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CCamera.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CChat.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CChatBubble.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CConfig.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CDeathWindow.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CDialog.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CEntity.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CFont.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CFonts.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CGame.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CGangZonePool.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CHelpDialog.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CHttpClient.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CInput.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CLabel.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CLabelPool.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CLicensePlate.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CLocalPlayer.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CMenu.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CMenuPool.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CNetGame.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CNetStats.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CObject.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CObjectMaterialText.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CObjectPool.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CObjectSelection.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\Commands.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\ControllerState.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CPed.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CPickupPool.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CPlayerInfo.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CPlayerPool.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CPlayerTags.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CRemotePlayer.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CScoreboard.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CSpawnScreen.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CSrvNetStats.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CTextDraw.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CTextDrawPool.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CTextDrawSelection.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CVehicle.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\CVehiclePool.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\DebugScript.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\Exception.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\GUI.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\KeyStuff.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\Scripting.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\Settings.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\SpecialAction.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
+    </ClInclude>
+    <ClInclude Include="include\sampapi\0.3.7-R4\Synchronization.h">
+      <Filter>include\sampapi\0.3.7-R4</Filter>
     </ClInclude>
     <ClInclude Include="include\sampapi\0.3.7-R3-1\AimStuff.h">
       <Filter>include\sampapi\0.3.7-R3-1</Filter>
