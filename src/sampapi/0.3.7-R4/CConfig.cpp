@@ -16,7 +16,7 @@ SAMPAPI_VAR CConfig*& RefConfig() {
 }
 
 CConfig::CConfig(const char* szFile) {
-    ((void(__thiscall*)(CConfig*, const char*))GetAddress(0x65C70))(this, szFile);
+    ((void(__thiscall*)(CConfig*, const char*))GetAddress(0x663A0))(this, szFile);
 }
 
 CConfig::~CConfig() {
